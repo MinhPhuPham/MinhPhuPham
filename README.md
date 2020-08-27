@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MinhPhuPham/MinhPhuPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t"/> </p>
+<div>
+    - 💻 I’m Junior NodeJs Developer.<br/>
+    - 🌱 I’m currently learning about C#.<br/>
+</div>
+<br />
 
-Here are some ideas to get you started:
+<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=MinhPhuPham&show_icons=true"/>
+<img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhPhuPham&layout=compact"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
