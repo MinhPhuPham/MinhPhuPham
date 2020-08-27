@@ -2,15 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abel3t" alt="abel3t"/> </p>
 <div>
-    - 💻 I’m Junior NodeJs Developer.<br/>
+    - ⚡ I’m Junior Angular and Nodejs Developer.<br/>
+    - 📍  I have work with VueJs, ReactJS, each project for them. <br/>
     - 🌱 I’m currently learning about C#.<br/>
 </div>
 <br />
 
 <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=MinhPhuPham&show_icons=true"/>
 <img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhPhuPham&layout=compact"/>
+<br />
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on GanNha.com
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
