@@ -12,7 +12,7 @@
 <img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhPhuPham&layout=compact"/>
 <br/>
 <br/>
-<div style="height: 10vh;"></div>
+<div style="min-height: 18vh;"></div>
 
 <br/>
 <div>
