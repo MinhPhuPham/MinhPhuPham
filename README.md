@@ -12,8 +12,12 @@
 <img align='right' width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinhPhuPham&layout=compact"/>
 <br/>
 <br/>
-<div style="min-height: 18vh;"></div>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <div>
     - 🔭 I’m currently working on Sango Technology <br/>
