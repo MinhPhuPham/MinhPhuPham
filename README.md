@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MinhPhuPham" alt="MinhPhuPham"/> </p>
 <div>
-    - ⚡ I’m Junior Angular and Nodejs Developer.<br/>
-    - 📍  I have work with VueJs, ReactJS, each project for them. <br/>
-    - 🌱 I’m currently learning about C#.<br/>
+    - ⚡  I’m software engineer as knowledge of Website, App.<br/>
+    - 📍 I have work as Front-end and Backend position <br/>
+    - 🌱 Some language as framework used: Python, JS/TS, Swift....Flask, Swiftui, Angular, Vuejs,.....<br/>
 </div>
 <br />
 
