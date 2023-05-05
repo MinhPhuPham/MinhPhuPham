@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MinhPhuPham" alt="MinhPhuPham"/> </p>
 <div>
-    - ⚡  I’m software engineer as knowledge of Website, App.<br/>
-    - 📍 I have work as Front-end and Backend position <br/>
+    - ⚡  I’m software engineer as knowledge of Website, IOS App.<br/>
+    - 📍 I have work as Front-end and Backend position also experienced with Mobile App <br/>
     - 🌱 Some language as framework used: Python, JS/TS, Swift....Flask, Swiftui, Angular, Vuejs,.....<br/>
 </div>
 <br />
