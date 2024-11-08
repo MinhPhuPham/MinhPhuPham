@@ -22,7 +22,7 @@
 <div>
     - 🔭 I’m currently working on Sango Technology <br/>
     - 🌱 I’m currently learning Data Structure and Maining Product.<br/>
-    - 👯 I’m looking to collaborate on 1 years or more.<br/>
+    - 👯 I’m looking to collaborate on 4 years or more.<br/>
     - 📫 How to reach me: https://cv-online.herokuapp.com/ or my mail: phamminhphueur@gmail.com <br/>
     - 😄 Pronouns: ...<br/>
     - ⚡ Fun fact: "Don't be held back by the past, look at it and step forward"<br/>
